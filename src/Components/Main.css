@@ -1,0 +1,24 @@
+body {
+    background-color: lightgrey !important;
+  }
+.box1{
+    /* border: 2px solid grey; */
+    height: fit-content;
+    background-color: lightgrey !important;
+}
+.box2{
+    /* border: 2px solid grey; */
+    border-radius: 10px;
+    margin: auto;
+    height: 400px;
+    background-color: white;
+}
+.titlepart{
+    color: grey;
+}
+.ptext{
+    color: green;
+}
+.buttondiv{
+    text-align: center;
+}
